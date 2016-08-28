@@ -1,4 +1,5 @@
 
+ * Introduce platform artifacts that depend on binaries for all available platforms and work with any build system (sbt, Gradle, M2Eclipse, etc)
  * Add presets for OpenBLAS/MKL ([issue #112](https://github.com/bytedeco/javacpp-presets/issues/112))
  * Make Caffe work on CPU-only machines ([issue #219](https://github.com/bytedeco/javacpp-presets/issues/219))
  * Fix loading issue with `opencv_face` ([issue bytedeco/javacv#470](https://github.com/bytedeco/javacv/issues/470)
